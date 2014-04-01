@@ -1,7 +1,14 @@
 {
-  "public" : {
+  "public": {
     "ga": {
-      "account":"UA-XXXXXXX-Y"
+      "account": "UA-XXXXXXXX-Y"
+    }
+  },
+ "flickr": {
+    "api": {
+      "key": "<insert key here>",
+      "userid" : "<insert user id here>"
     }
   }
 }
+
